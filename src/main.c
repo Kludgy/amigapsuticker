@@ -55,7 +55,7 @@ N60
  = 33,333 [+ 1/3]  (ie. we will undershoot by 1/6 millionths of a second)
 
 Timer 1 will be configured for a 2MHz clock, and the program will reset this
-clock every 40K or 33,333 cycles to line up with the 50Hz or 69Hz periods,
+clock every 40K or 33,333 cycles to line up with the 50Hz or 60Hz periods,
 respectively.
 
 I am choosing to ignore any additional drift that may result due to naive
